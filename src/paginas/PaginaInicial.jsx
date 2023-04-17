@@ -17,7 +17,7 @@ import { ProvedorTema } from "../componentes/ProvedorTema/ProvedorTema";
 import { Rodape } from "../componentes/Rodape/Rodape";
 import { Tipografia } from "../componentes/Tipografia/Tipografia";
 
-const estadosBrasileiros = [
+export const estadosBrasileiros = [
   { "text": "Acre", "value": "AC" },
   { "text": "Alagoas", "value": "AL" },
   { "text": "Amapá", "value": "AP" },
