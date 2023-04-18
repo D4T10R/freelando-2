@@ -5,9 +5,6 @@
 O Freelando é uma StartUP. 
 Nesse momento, é um MVP que tá só começando e ainda tem muitas funcionalidades novas para serem desenvolvidas.
 
-<img src="screencapture.png" alt="Imagem do Freelando" width="50%">
-
-
 ## 🔨 Funcionalidades do projeto
 
 Nesse primeiro momento, nós temos a página que foi idealizada como a primeiro entrega do time de desenvolvimento.
